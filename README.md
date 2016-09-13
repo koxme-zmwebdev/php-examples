@@ -92,10 +92,17 @@ SublimeText:
 
 http://wasil.org/sublime-text-3-perfect-php-development-set-up
 
+https://mattstauffer.co/blog/sublime-text-3-for-php-developers
+
+Aptana:
 
 http://www.aptana.com/
 
+PHPStorm:
+
 https://www.jetbrains.com/phpstorm/
+
+C9.io:
 
 https://c9.io/
 

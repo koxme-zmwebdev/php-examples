@@ -32,3 +32,5 @@ https://developers.openshift.com/en/databases-mysql.html
 https://docs.c9.io/docs/setup-a-database
 
 https://docs.c9.io/docs/setting-up-mysql
+
+https://community.c9.io/t/setting-up-mysql/1718

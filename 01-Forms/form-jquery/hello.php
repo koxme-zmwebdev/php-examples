@@ -6,7 +6,9 @@ if(isset($_POST["name"])){
     $name = "null";
 }
 
-$data = '{hello:"' . $name . '"}';
+//$data = '{hello:"' . $name . '"}';
+
+$data = array("name"=> $name);
 
 header('Content-Type: application/json');
 

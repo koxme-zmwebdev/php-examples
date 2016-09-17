@@ -10,11 +10,13 @@ http://www.tutorialspoint.com/php/index.htm
 
 http://www.phptherightway.com/
 
-[PHP Cookbook](http://shop.oreilly.com/product/0636920029335.do)
+[PHP Cookbook. O'Reilly](http://shop.oreilly.com/product/0636920029335.do)
 
 https://github.com/zmwebdev/PHPcookbook-code-3ed
 
-[Modern PHP](http://shop.oreilly.com/product/0636920033868.do)
+[Modern PHP. O'Reilly](http://shop.oreilly.com/product/0636920033868.do)
+
+[PHP Web Services, 2nd Edition. O'Reilly](http://shop.oreilly.com/product/0636920042860.do)
 
 https://github.com/codeguy/modern-php
 
